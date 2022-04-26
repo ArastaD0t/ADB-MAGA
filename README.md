@@ -3,11 +3,13 @@
 you need:
  - allowed ADB  
  - allow first connection  
- - Set Czech language iside your android (maybe)....
+ - Set Czech language inside your Android....
  - lock screen rotation
-  
+ - ideally same screen resoultion (some buttons for now method cant be triggered, i working on new method)
+ 
 supported:  
  - Google
+    (account in device is working but if u try login externaly, not work :/ )
 
 planned:  
 - Facebook  
