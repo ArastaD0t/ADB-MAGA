@@ -31,6 +31,8 @@ python3 MAGA.py
 ## Bash Version
 Tested on ELE-L29 (Android 10) (resoultion 1560x720) (Czech Language)
 
+Enable ADB , authorize ADB and `chmod +x MAGA.sh` after `./MAGA.sh`
+
 ## Troubleshooting
 If isnt work on your device
 you can adjust script for 
