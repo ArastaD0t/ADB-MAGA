@@ -20,7 +20,7 @@ planned:
 - Tik-Tok  
 
 ---
-	~~## Python Version	~~ (for now abandoned)
+	~~## Python Version~~ (for now abandoned)
 Tested on SM-G900F with CRDROID rom (Czech Language)  
 
 python3 MAGA.py  
