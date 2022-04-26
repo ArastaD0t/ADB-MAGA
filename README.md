@@ -23,7 +23,8 @@ planned:
 ##	~~Python Version~~ (for now abandoned)
 Tested on SM-G900F with CRDROID rom (Czech Language)  
 
-python3 MAGA.py  
+Enable ADB , authorize ADB and `chmod +x MAGA.py` after `python3 MAGA.py`
+
 
 
 
