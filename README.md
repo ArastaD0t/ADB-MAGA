@@ -9,6 +9,7 @@ you need:
 Maybe good to do:
  - disable Sync 
  - mute notifications (silent mode)
+ - close all screen overlays
  
 supported:  
  - Google
