@@ -20,16 +20,19 @@ planned:
 - Tik-Tok  
 
 ---
-	~~## Python Version	~~ (for now abandoned)
+##	~~Python Version~~ (for now abandoned)
 Tested on SM-G900F with CRDROID rom (Czech Language)  
 
-python3 MAGA.py  
+Enable ADB , authorize ADB and `chmod +x MAGA.py` after `python3 MAGA.py`
+
 
 
 
 
 ## Bash Version
 Tested on ELE-L29 (Android 10) (resoultion 1560x720) (Czech Language)
+
+Enable ADB , authorize ADB and `chmod +x MAGA.sh` after `./MAGA.sh`
 
 ## Troubleshooting
 If isnt work on your device
